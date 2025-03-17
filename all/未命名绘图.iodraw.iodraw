@@ -24,7 +24,7 @@
         <mxCell id="BqW84fXoVNQEWftOYqEN-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="63" as="sourcePoint" />
-            <mxPoint x="410" y="147" as="targetPoint" />
+            <mxPoint x="410" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-9" value="数据清理步骤" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;" vertex="1" parent="1">
