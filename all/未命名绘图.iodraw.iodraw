@@ -58,7 +58,7 @@
           <mxGeometry x="20" y="30" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-55" value="软硬技能差异化响应机制" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="260" y="30" width="170" height="60" as="geometry" />
+          <mxGeometry x="260" y="30" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-1" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="430" height="120" as="geometry">
