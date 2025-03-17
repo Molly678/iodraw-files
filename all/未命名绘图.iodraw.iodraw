@@ -91,7 +91,7 @@
         <mxCell id="BqW84fXoVNQEWftOYqEN-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BqW84fXoVNQEWftOYqEN-23" value="上市公司年报(2020-2023)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="BqW84fXoVNQEWftOYqEN-23" value="python提取管理层讨论与分析部分关键词" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="150" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dNxyNK7c78bLwvsdeMH5-26" target="BqW84fXoVNQEWftOYqEN-23">
