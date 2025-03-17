@@ -36,7 +36,7 @@
             <mxPoint x="380" y="59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BqW84fXoVNQEWftOYqEN-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-5">
+        <mxCell id="BqW84fXoVNQEWftOYqEN-7" value="因变量：skillrequriment" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-5">
           <mxGeometry x="50" y="40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BqW84fXoVNQEWftOYqEN-5" source="BqW84fXoVNQEWftOYqEN-38" target="BqW84fXoVNQEWftOYqEN-7">
