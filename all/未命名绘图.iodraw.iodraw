@@ -38,7 +38,7 @@
           <mxGeometry x="26.5" y="40" width="303.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-5" value="变量设定及分析过程" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="170" y="360" width="430" height="120" as="geometry" />
+          <mxGeometry x="170" y="355" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-7" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;因变量：skillrequriment&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-5">
           <mxGeometry x="1" y="45" width="80" height="50" as="geometry" />
