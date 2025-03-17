@@ -49,7 +49,7 @@
         <mxCell id="BqW84fXoVNQEWftOYqEN-50" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;工具变量：&lt;/p&gt;&lt;p style=&quot;line-height: 130%;&quot;&gt;稳健性检验：&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-5">
           <mxGeometry x="117" y="26" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="内生/稳健性检验" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="创新点及政策意义" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="170" y="480" width="430" height="120" as="geometry">
             <mxRectangle x="20" y="240" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
-          <mxGeometry x="40" y="30" width="80" height="60" as="geometry" />
+          <mxGeometry x="50" y="40" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-1" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="430" height="120" as="geometry">
