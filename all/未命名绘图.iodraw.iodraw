@@ -50,12 +50,18 @@
           <mxGeometry x="117" y="26" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="创新点及政策意义" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="170" y="480" width="430" height="120" as="geometry">
+          <mxGeometry x="170" y="480" width="576" height="120" as="geometry">
             <mxRectangle x="20" y="240" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; E1[&quot;理论创新：&amp;lt;br&amp;gt;• 技能需求动态匹配框架&amp;lt;br&amp;gt;• 软硬技能差异化响应机制&quot;]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; --&amp;gt; E2[&quot;方法创新：&amp;lt;br&amp;gt;• 招聘信息去重算法优化&amp;lt;br&amp;gt;• 多源数据交叉验证&quot;]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; --&amp;gt; E3[&quot;政策价值：&amp;lt;br&amp;gt;• 职业教育课程改革方向&amp;lt;br&amp;gt;• 区域数字化人才储备策略&quot;]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
+        <mxCell id="BqW84fXoVNQEWftOYqEN-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="dNxyNK7c78bLwvsdeMH5-34" target="BqW84fXoVNQEWftOYqEN-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;理论创新：技能需求动态匹配框架&amp;lt;br&amp;gt;• 软硬技能差异化响应机制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
           <mxGeometry x="1" y="30" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqW84fXoVNQEWftOYqEN-55" value="" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="456" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-1" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="430" height="120" as="geometry">
