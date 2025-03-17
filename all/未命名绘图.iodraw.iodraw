@@ -65,7 +65,7 @@
           <mxGeometry x="360" y="30" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="274" width="260" height="80" as="geometry" />
+          <mxGeometry x="200" y="274" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-23" value="python提取管理层讨论与分析部分关键词" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="150" width="170" height="30" as="geometry" />
