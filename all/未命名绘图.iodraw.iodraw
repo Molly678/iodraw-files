@@ -45,7 +45,7 @@
         <mxCell id="BqW84fXoVNQEWftOYqEN-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BqW84fXoVNQEWftOYqEN-5" source="BqW84fXoVNQEWftOYqEN-38" target="BqW84fXoVNQEWftOYqEN-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BqW84fXoVNQEWftOYqEN-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-5">
+        <mxCell id="BqW84fXoVNQEWftOYqEN-38" value="自变量：&lt;span style=&quot;background-color: initial;&quot;&gt;数字化转型指标&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;① 数字化关键词词频加1取对数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;② 数字化词频占总词频比重&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;③ CSMAR数字化转型综合指数&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-5">
           <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;labelBackgroundColor=none;" parent="1" vertex="1">
