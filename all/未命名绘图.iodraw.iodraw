@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="&lt;div&gt;理论创新：技能需求动态匹配框架&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=left;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
-          <mxGeometry x="20" y="30" width="180" height="40" as="geometry" />
+          <mxGeometry x="10" y="30" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-55" value="软硬技能差异化响应机制" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="250" y="35" width="170" height="30" as="geometry" />
