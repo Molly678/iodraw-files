@@ -38,13 +38,13 @@
           <mxGeometry x="26.5" y="40" width="303.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-5" value="变量设定" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="360" width="440" height="143" as="geometry" />
+          <mxGeometry x="170" y="360" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-7" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;因变量：skillrequriment&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-5">
           <mxGeometry x="10" y="45" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;自变量：&lt;span style=&quot;background-color: initial;&quot;&gt;数字化转型指标&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;mfmlB9DvK_vy46wVhdLU&quot;&gt;① 数字化关键词词频加1取对数&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;mfmlB9DvK_vy46wVhdLU&quot;&gt;② 数字化词频占总词频比重&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;mfmlB9DvK_vy46wVhdLU&quot;&gt;③ CSMAR数字化转型综合指数&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=left;labelBackgroundColor=none;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-5">
-          <mxGeometry x="263" y="3" width="177" height="140" as="geometry" />
+          <mxGeometry x="250" y="35" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-50" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;因变量：skillrequriment&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-5">
           <mxGeometry x="117" y="26" width="110" height="90" as="geometry" />
