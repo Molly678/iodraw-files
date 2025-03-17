@@ -28,7 +28,7 @@
           <mxGeometry x="26.5" y="40" width="303.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-5" value="变量设定" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="360" width="440" height="120" as="geometry" />
+          <mxGeometry x="170" y="360" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="BqW84fXoVNQEWftOYqEN-5">
           <mxGeometry relative="1" as="geometry">
