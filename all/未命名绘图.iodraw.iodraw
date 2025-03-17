@@ -18,8 +18,8 @@
         <mxCell id="BqW84fXoVNQEWftOYqEN-29" value="python进行技能关键词提取&lt;div&gt;（社交、性格、认知、写作）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="230" y="66" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BqW84fXoVNQEWftOYqEN-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="345" y="65" width="100" height="50" as="geometry" />
+        <mxCell id="BqW84fXoVNQEWftOYqEN-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="370" y="40" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-9" value="数据清理步骤" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="430" height="120" as="geometry" />
