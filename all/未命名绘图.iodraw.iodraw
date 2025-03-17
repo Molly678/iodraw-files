@@ -20,11 +20,6 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="数据清理" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="170" y="120" width="430" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="BqW84fXoVNQEWftOYqEN-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="dNxyNK7c78bLwvsdeMH5-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="44" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-26" value="上市公司年报(2020-2023)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="20" y="30" width="170" height="30" as="geometry" />
         </mxCell>
@@ -95,6 +90,9 @@
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqW84fXoVNQEWftOYqEN-23" value="上市公司年报(2020-2023)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="383" y="160" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
