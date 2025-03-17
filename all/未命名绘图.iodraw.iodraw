@@ -35,7 +35,7 @@
           <mxGeometry x="170" y="240" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-17" value="&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;1.技能需求标注：根据关键词识技能需求&lt;/span&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;2.招聘信息去重：&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;按企业分组→按工作省市二次分组&lt;/span&gt;→MinHash+LSH去重&lt;div style=&quot;font-size: 12px; line-height: 130%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;3.相似度阈值0.7、0.9双检验&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;spacingTop=5;fontSize=12;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-9">
-          <mxGeometry x="26.5" y="32" width="343.5" height="70" as="geometry" />
+          <mxGeometry y="32" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-5" value="变量设定及分析过程" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="353" width="430" height="120" as="geometry" />
