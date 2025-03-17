@@ -36,7 +36,7 @@
           <mxGeometry x="170" y="360" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-7" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;因变量：skillrequriment&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;labelBackgroundColor=none;" vertex="1" parent="BqW84fXoVNQEWftOYqEN-5">
-          <mxGeometry y="50" width="90" height="40" as="geometry" />
+          <mxGeometry x="10" y="45" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BqW84fXoVNQEWftOYqEN-5" source="BqW84fXoVNQEWftOYqEN-38" target="BqW84fXoVNQEWftOYqEN-7">
           <mxGeometry relative="1" as="geometry" />
