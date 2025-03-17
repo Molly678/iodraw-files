@@ -19,7 +19,7 @@
           <mxGeometry x="230" y="66" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-35" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="400" y="30" width="10" height="60" as="geometry" />
+          <mxGeometry x="400" y="33" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqW84fXoVNQEWftOYqEN-9" value="数据清理步骤" style="swimlane;html=1;startSize=20;horizontal=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="430" height="120" as="geometry" />
@@ -87,6 +87,12 @@
               <mxPoint x="485" y="270" />
               <mxPoint x="485" y="270" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BqW84fXoVNQEWftOYqEN-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="420" as="sourcePoint" />
+            <mxPoint x="500" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
